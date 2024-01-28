@@ -1,0 +1,6 @@
+data/org.uni.unibenchmark.desktop.in
+data/org.uni.unibenchmark.appdata.xml.in
+data/org.uni.unibenchmark.gschema.xml
+src/main.c
+src/unibenchmark-window.c
+src/unibenchmark-window.ui
